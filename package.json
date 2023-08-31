@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "prompts": "^2.4.2",
+    "puppeteer": "^21.1.0"
+  }
+}
